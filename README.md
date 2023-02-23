@@ -1,4 +1,4 @@
-# techweek-app-code
+# Techweek-app-code
 App source code for TechWeek 2022/2023
 
 
