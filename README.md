@@ -11,7 +11,7 @@ In this repository are the files that will be the source of true of our applicat
 
 - Kubernetes manifests are defined in the `deploy` folder.
 
-- The code of the application in the `src`.
+- The code of the application is in the `src`.
 
 
 ## Documentation
